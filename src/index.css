@@ -1,0 +1,57 @@
+/* COLORES DE LA APP */
+/* #7454ec */
+
+/* #6848f8 */
+
+
+/* ESTILOS GENERALES */
+*{
+    color: white;
+}
+
+html{
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    padding: 0;
+  }
+
+#root{
+    height: 100%;
+}
+
+.all{
+    background-color: #424242;
+    height: 100%;
+}
+
+/* Elementos en la PAgina */
+
+.App-logo{
+    width: 150px;
+}
+
+form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.submitButton {
+    background-color: #6848f8;
+    border: 1px solid #4A148C;
+}
+
+.submitButton:hover{
+    background-color: #7454ec;
+    border: 1px solid #4A148C;
+}
+
+.navbar{
+    background-color: black;
+}
+
+
+/* #6c54ec */
+/* #6848f8 */
