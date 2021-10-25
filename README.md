@@ -20,7 +20,7 @@ Usando React, Node y web3 se programo la interfaz y la logica del las transaccio
 
 ![Eth_Wallet_Project](/imgs/1.PNG)
 
-![Eth_Wallet_Project](/imgs/2.PNG)
+![Eth_Wallet_Project](/imgs/6.PNG)
 
 ![Eth_Wallet_Project](/imgs/3.PNG)
 
