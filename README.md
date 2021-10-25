@@ -32,5 +32,8 @@ Usando Ganache pude usar cuentas que por default tenian 100 ETH cada una para po
 
 Por el momento me hizo falta la interfaz del cambio e importe de cuentas, ya que usando web3 se puede usar el metodo create() que genera una cuenta nueva con una llave privada en el espacio de Blockchain.
 
+![Eth_Wallet_Project](/imgs/4.PNG)
+
+
 
 
